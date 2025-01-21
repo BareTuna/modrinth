@@ -1,10 +1,10 @@
 {
   "build": {
-    "features": ["updater"]
+    "features": []
   },
   "app": {
     "security": {
-      "capabilities": ["ads", "core", "plugins", "updater"]
+      "capabilities": ["ads", "core", "plugins"]
     }
   }
 }
